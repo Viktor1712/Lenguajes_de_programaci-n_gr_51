@@ -1,0 +1,6 @@
+Los algoritmos imperativos son un enfoque donde se descreben los pasos detallados y
+específicos que una computadora debe seguir para resolver un problema. Estos pasos incluyen
+instrucciones para modificar el estado del programa a medida que se avanza. Es un enfoque
+secuencial y explícito que utiliza estructuras de control como bucles y condicionales para guiar
+la ejecución. Este enfoque se centra en el "cómo" se resuelve un problema, en contraste con los
+enfoques declarativos que se centran en el "qué" se debe lograr.
