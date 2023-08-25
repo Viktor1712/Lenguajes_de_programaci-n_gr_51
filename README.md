@@ -1,2 +1,1 @@
-# Go-Practice-1
- 
+# GoRepository
